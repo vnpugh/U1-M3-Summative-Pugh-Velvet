@@ -29,6 +29,3 @@ public Quote (String quote, String author) {
     }
 }
 
-
-//requesmap value = method
-//list x = random.naigiclist.nextint(magiclist.size)
